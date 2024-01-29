@@ -157,7 +157,7 @@ function runTests() {
 			it("questionsArr should be declared and be an array", () => {
 				expect(questionsArr).to.exist;
 				expect(Array.isArray(questionsArr)).to.be.true;
-			});
+			}); 
 			it("questionsArr should contain only objects", () => {
 				expect(questionsArr).to.exist;
 				expect(Array.isArray(questionsArr)).to.be.true;
