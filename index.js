@@ -4,11 +4,11 @@ var questionsArr = [
         answer: true,
     },
     {
-        question: "Starbucks has the best coffee?",
-        answer: true,
+        question: "Does Starbucks have the best coffee?",
+        answer: false,
     },
     {
-        question: "Pineapples belong on pizza?",
+        question: "Do pineapples belong on pizza?",
         answer: true,
     },
     {
